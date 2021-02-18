@@ -5,7 +5,7 @@ import 'package:quizapp/pages/landing_page.dart';
 
 void main() {
   runApp(new MaterialApp(
-    debugShowCheckedModeBanner: false, //to Display the Debugg Bar
+    debugShowCheckedModeBanner: false, //to Display the Debugg Bar on screen
     home: new LandingPage(),
   ));
 }
